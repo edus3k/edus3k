@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, mecho Eduardo Santos. Atualmente universitario de Ciência da Computação, cursando o 5° período.
 
 <!--
 **edus3k/edus3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
