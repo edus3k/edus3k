@@ -1,7 +1,9 @@
-## Olá, me chamo Eduardo Santos
+# 👨‍💻 Desenvolvedor Full Stack
+## Graduado em Ciência da Computação, com atuação no desenvolvimento Front-end e Back-end. Trabalho com Java, Python e JavaScript, criando aplicações web, APIs e soluções voltadas à automação e análise de dados.
 
-##
-  
+## Busco transformar problemas em soluções simples, eficientes e escaláveis, aplicando boas práticas de desenvolvimento e mantendo uma evolução constante em novas tecnologias.
+
+# 🛠️ Tecnologias
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="edu-java" eight="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="edu-python" eight="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
